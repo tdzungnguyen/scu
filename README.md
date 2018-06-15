@@ -10,12 +10,12 @@ SCU-Provenance requires provenance services of Komadu (https://github.com/Data-t
 
 
 ## Usage
-Deploy Komadu in a Ubuntu 14.04 virtual machine. Please follow the guideline to deploy Komadu from its repository.
-Install JDK 1.8.x in another virtual machine. 
-Clone the source code of SCU-Provenance
-Modify the Komadu service endpoint and log file path in class SCUProvo
-Compile the source code using Maven
-Excute the built .jar file with the main class SCUProvo  
+*Deploy Komadu in a Ubuntu 14.04 virtual machine. Please follow the guideline to deploy Komadu from its repository.
+*Install JDK 1.8.x in another virtual machine. 
+*Clone the source code of SCU-Provenance
+*Modify the Komadu service endpoint and log file path in class SCUProvo
+*Compile the source code using Maven
+*Excute the built .jar file with the main class SCUProvo  
 
 ## Publications
 * Mirela Riveni, Tien-Dung Nguyen, Mehmet S. Aktas and Schahram Dustdar. "Application of Provenance in Social Computing: A Case Study" submitted to Concurrency and Computation: Practice and Experience, 2018.
