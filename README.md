@@ -18,7 +18,7 @@ Compile the source code using Maven
 Excute the built .jar file with the main class SCUProvo  
 
 ## Publications
-* Mirela Riveni, Tien-Dung Nguyen, Mehmet S. Aktas and Schahram Dustdar. "Application of Provenance in Social Computing: A Case Study" Submitted to Concurrency and Computation: Practice and Experience, 2018.
+* Mirela Riveni, Tien-Dung Nguyen, Mehmet S. Aktas and Schahram Dustdar. "Application of Provenance in Social Computing: A Case Study" submitted to Concurrency and Computation: Practice and Experience, 2018.
 
 ## License
 GNU General Public License
